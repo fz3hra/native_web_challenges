@@ -9,8 +9,8 @@ export default {
   theme: {
     extend: {
       fontSize: {
-        'placeholder-lg': '1.25rem', // Example size
-        'placeholder-sm': '0.875rem', // Example size
+        'placeholder-lg': '1.25rem',
+        'placeholder-sm': '0.875rem', 
       }
     },
   },

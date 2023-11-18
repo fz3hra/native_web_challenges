@@ -5,7 +5,7 @@ function Sidebar() {
     <div className='w-60 p-3 flex flex-col'>
         <div className='menu_components'>
           <div className='flex items-center gap-2 px-1 py-3 justify-center'>
-           <h1 className='text-black'>CloudFinance</h1>
+           <h1 className='text-black font-semibold'>CloudFinance</h1>
         </div>
          {/* Category */}
             <div className=''>
