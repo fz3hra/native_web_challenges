@@ -18,7 +18,6 @@ const Navbar = () => {
               <FontAwesomeIcon icon={faSearch} className="icon absolute left-2 top-1/2 -translate-y-1/2	" />
             </div>
             <div className='notification_component pl-2'>
-              {/* icon */}
               <FontAwesomeIcon icon={faBell} className="text-black text-lg" />
             </div>
             <div className='bg-gray-200 mx-2 my-2 w-px h-10'></div>

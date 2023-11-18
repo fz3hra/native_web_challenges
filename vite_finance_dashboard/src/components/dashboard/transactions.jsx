@@ -60,11 +60,8 @@ function LatestTransactions() {
                                 </div>
                             </td>
                             <td className='px-6 py-4 text-gray-500'>
-                                {/* Link  */}
                                 <FontAwesomeIcon icon={faLink} className='mr-3'/>
-                                {/* delete */}
                                 <FontAwesomeIcon icon={faTrash} className='mr-3'/>
-                                {/* vertical 3 dots */}
                                 <FontAwesomeIcon icon={faEllipsisH} />
                             </td>
                         </tr>

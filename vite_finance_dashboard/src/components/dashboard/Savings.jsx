@@ -21,7 +21,6 @@ function Savings() {
             <p className='text-sm text-green-500'>+53.3</p>
             <p className='pl-1 text-xs text-gray-500'>than last month</p>
         </div>
-        {/* add divider */}
         <div className='bg-gray-100 mt-4 mb-4 h-0.5'></div>
         {/* TODO: calculate width: */}
         <div>

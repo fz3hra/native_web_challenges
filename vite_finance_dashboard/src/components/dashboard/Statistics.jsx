@@ -35,7 +35,6 @@ const Statistics = () => {
             },
             plugins: {
                 tooltip: {
-                // Custom tooltip configuration goes here
                 }
             }
             }
